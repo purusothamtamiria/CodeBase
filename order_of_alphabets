@@ -1,0 +1,3 @@
+word="apple"
+for each in word:
+    print(ord(each))
